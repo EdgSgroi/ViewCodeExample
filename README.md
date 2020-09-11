@@ -3,6 +3,8 @@ Projeto básico criado para aprender e testar o ViewCode e suas boas práticas
 
 ## Configurações Iniciais
 
+Essas configurações iniciais devem ser feitas em seus projetos para que seja possível utilizar o ViewCode
+
 - Arquivo principal do projeto > General > Main Interface -> Deixar o campo vazio (retirar o "Main")
 - Deletar o arquivo de Storyboard
 - No caso do projeto ter um SceneDelegate, inserir o seguinte código no arquivo: 
